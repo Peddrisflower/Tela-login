@@ -4,16 +4,17 @@
     box-sizing: border-box;
 }
 
-#principal{
+body{
     
     width: 100%;
-    max-width: 100%;
-    max-width: 1700px;
-    
+    min-height:100% ;
     background-image: url('../img/imgfundo.jpg');
+    margin: 0;
+    
+    
     
 
-    height: 100vh;
+    height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
